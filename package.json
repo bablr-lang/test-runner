@@ -18,7 +18,7 @@
     "@bablr/hol-debug-log": "0.1.3"
   },
   "peerDependencies": {
-    "@bablr/vm": "0.1.12"
+    "@bablr/vm": "*"
   },
   "devDependencies": {
     "@bablr/eslint-config-base": "github:bablr-lang/eslint-config-base#c040bc95f2dddac160628e4757a412016044b3ef",
