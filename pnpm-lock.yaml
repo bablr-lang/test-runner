@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@bablr/hol-debug-log':
-    specifier: 0.1.3
-    version: 0.1.3
+    specifier: 0.1.4
+    version: 0.1.4
   indent-string:
     specifier: 5.0.0
     version: 5.0.0
@@ -309,8 +309,8 @@ packages:
       iter-tools-es: 7.5.3
     dev: false
 
-  /@bablr/hol-debug-log@0.1.3:
-    resolution: {integrity: sha512-pRG/uo3YvSUnXZE/DR6WEpgQRdvTWKggRI2jh0A1PQKD5rkcx3kMriUEfi2nJgzVyZn0vI/j6dYagyF7HjOmDg==}
+  /@bablr/hol-debug-log@0.1.4:
+    resolution: {integrity: sha512-s6Klvtv1a2aN/FFdRjSJbz6iiRH7SLhWDTT7ZJ9gPDGfRL/5FesdmDkae64AD+Dnl7WtollU0fKfs1d6h1f8+g==}
     dependencies:
       '@bablr/helpers': 0.1.2
     dev: false

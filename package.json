@@ -15,7 +15,7 @@
   "sideEffects": false,
   "dependencies": {
     "indent-string": "5.0.0",
-    "@bablr/hol-debug-log": "0.1.3"
+    "@bablr/hol-debug-log": "0.1.4"
   },
   "peerDependencies": {
     "@bablr/vm": "*"
