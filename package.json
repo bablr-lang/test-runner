@@ -14,16 +14,17 @@
   ],
   "sideEffects": false,
   "dependencies": {
-    "@bablr/agast-helpers": "github:bablr-lang/agast-helpers#8b57f2971fc91f6dd4e23ec626a77c931c877786",
+    "@bablr/agast-helpers": "github:bablr-lang/agast-helpers#bbf50d0ea19e62c7c81e674e58463592e9491f89",
     "@bablr/hol-debug-log": "github:bablr-lang/hol-debug-log#2c5e7f2f7faf7c0f7e93e1468ecb7e8450859640",
-    "indent-string": "5.0.0"
+    "indent-string": "5.0.0",
+    "iter-tools-es": "7.5.3"
   },
   "peerDependencies": {
     "bablr": "*"
   },
   "devDependencies": {
     "@bablr/eslint-config-base": "github:bablr-lang/eslint-config-base#c040bc95f2dddac160628e4757a412016044b3ef",
-    "bablr": "github:bablr-lang/bablr#5f1fb4114a8def739949a2a84224e5eeb28aae2e",
+    "bablr": "github:bablr-lang/bablr#37f919e002262eb792bc902895cbcd9707d66ae5",
     "enhanced-resolve": "^5.12.0",
     "eslint": "^7.32.0",
     "eslint-import-resolver-enhanced-resolve": "^1.0.5",
